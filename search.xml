@@ -32,4 +32,18 @@
         <tag>testHexo</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Readme</title>
+    <url>/2022/01/20/Readme/</url>
+    <content><![CDATA[<h1 id="READ-ME"><a href="#READ-ME" class="headerlink" title="READ ME"></a>READ ME</h1><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><h3 id="generally-speaking"><a href="#generally-speaking" class="headerlink" title="generally speaking"></a>generally speaking</h3><blockquote>
+<p>本喵比较懒，可能不常更新。<br>本博客套用themes-gal模板使用。<br>本博客并不打算开源，并可能会在本喵无聊时更新新功能。<br>目前使用hexo、git等联合运作，以markdown形式更新推文。</p>
+</blockquote>
+<h3 id="functions-till-now"><a href="#functions-till-now" class="headerlink" title="functions (till now)"></a>functions (till now)</h3><blockquote>
+<p>导航栏除了大标题外均可点击跳转。<br>搜索栏支持关键字搜索。<br>侧边栏展示部分文章和超链接。<br>欢迎留下评论。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>readme</tag>
+      </tags>
+  </entry>
 </search>
