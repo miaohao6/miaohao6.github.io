@@ -8,20 +8,6 @@
 <h4 id="添加live2d形象：狗子"><a href="#添加live2d形象：狗子" class="headerlink" title="添加live2d形象：狗子"></a>添加live2d形象：狗子</h4>]]></content>
   </entry>
   <entry>
-    <title>Readme</title>
-    <url>/2022/01/20/Readme/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="READ-ME"><a href="#READ-ME" class="headerlink" title="READ ME"></a>READ ME</h1><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><h3 id="generally-speaking"><a href="#generally-speaking" class="headerlink" title="generally speaking"></a>generally speaking</h3><blockquote>
-<p>本喵比较懒，可能不常更新。<br>本博客套用themes-gal模板使用。<br>本博客并不打算开源，并可能会在本喵无聊时更新新功能。<br>目前使用hexo、git等联合运作，以markdown形式更新推文。</p>
-</blockquote>
-<h3 id="functions-till-now"><a href="#functions-till-now" class="headerlink" title="functions (till now)"></a>functions (till now)</h3><blockquote>
-<p>导航栏除了大标题外均可点击跳转。<br>搜索栏支持关键字搜索。<br>侧边栏展示部分文章和超链接。<br>欢迎留下评论。</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>readme</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>guide</title>
     <url>/2022/02/16/guide/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="关于hexo博客的搭建"><a href="#关于hexo博客的搭建" class="headerlink" title="关于hexo博客的搭建"></a>关于hexo博客的搭建</h1><h2 id="1-前置准备"><a href="#1-前置准备" class="headerlink" title="1.前置准备"></a>1.前置准备</h2><h3 id="1-1github"><a href="#1-1github" class="headerlink" title="1.1github"></a>1.1github</h3><blockquote>
@@ -110,9 +96,69 @@
 ]]></content>
   </entry>
   <entry>
+    <title>majsoul!</title>
+    <url>/2022/03/17/majsoul/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="纪念第一次双倍役满"><a href="#纪念第一次双倍役满" class="headerlink" title="纪念第一次双倍役满"></a>纪念第一次双倍役满</h1><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><h3 id="字一色"><a href="#字一色" class="headerlink" title="字一色"></a>字一色</h3><blockquote>
+<p>胡牌时手牌中只有东南西北白中发，役满</p>
+</blockquote>
+<h3 id="大三元"><a href="#大三元" class="headerlink" title="大三元"></a>大三元</h3><blockquote>
+<p>胡牌时手牌中含有中、发、白的对子</p>
+</blockquote>
+<h1 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h1><blockquote>
+<p><a href="https://game.maj-soul.com/1/?paipu=220317-cce921fa-42bb-4ad8-bda0-6d3ff61a0c99_a110741673">雀魂牌谱</a></p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>Readme</title>
+    <url>/2022/01/20/Readme/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="READ-ME"><a href="#READ-ME" class="headerlink" title="READ ME"></a>READ ME</h1><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><h3 id="generally-speaking"><a href="#generally-speaking" class="headerlink" title="generally speaking"></a>generally speaking</h3><blockquote>
+<p>本喵比较懒，可能不常更新。<br>本博客套用themes-gal模板使用。<br>本博客并不打算开源，并可能会在本喵无聊时更新新功能。<br>目前使用hexo、git等联合运作，以markdown形式更新推文。</p>
+</blockquote>
+<h3 id="functions-till-now"><a href="#functions-till-now" class="headerlink" title="functions (till now)"></a>functions (till now)</h3><blockquote>
+<p>导航栏除了大标题外均可点击跳转。<br>搜索栏支持关键字搜索。<br>侧边栏展示部分文章和超链接。<br>欢迎留下评论。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>readme</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>majsoul2!</title>
+    <url>/2022/04/08/majsoul2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="纪念第一次双倍役满"><a href="#纪念第一次双倍役满" class="headerlink" title="纪念第一次双倍役满"></a>纪念第一次双倍役满</h1><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><h3 id="字一色"><a href="#字一色" class="headerlink" title="字一色"></a>字一色</h3><blockquote>
+<p>胡牌时手牌中只有东南西北白中发，役满</p>
+</blockquote>
+<h3 id="小四喜"><a href="#小四喜" class="headerlink" title="小四喜"></a>小四喜</h3><blockquote>
+<p>胡牌时手牌中同时含有东南西北至少一个的对子和另三个的对子/碰子</p>
+</blockquote>
+<h1 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h1><blockquote>
+<p><a href="https://game.maj-soul.com/1/?paipu=220407-738f2031-5ea9-4cd1-a58f-1c3bafd951b9_a110741673">雀魂牌谱</a></p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
     <title>package</title>
     <url>/2022/04/05/package/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://ytmp3.cc/en13/">下载</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/01/19/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -137,37 +183,5 @@
         <tag>学习笔记</tag>
         <tag>study</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2022/01/19/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>majsoul!</title>
-    <url>/2022/03/17/majsoul/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="纪念第一次双倍役满"><a href="#纪念第一次双倍役满" class="headerlink" title="纪念第一次双倍役满"></a>纪念第一次双倍役满</h1><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><h3 id="字一色"><a href="#字一色" class="headerlink" title="字一色"></a>字一色</h3><blockquote>
-<p>胡牌时手牌中只有东南西北白中发，役满</p>
-</blockquote>
-<h3 id="大三元"><a href="#大三元" class="headerlink" title="大三元"></a>大三元</h3><blockquote>
-<p>胡牌时手牌中含有中、发、白的对子</p>
-</blockquote>
-<h1 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h1><blockquote>
-<p><a href="https://game.maj-soul.com/1/?paipu=220317-cce921fa-42bb-4ad8-bda0-6d3ff61a0c99_a110741673">雀魂牌谱</a></p>
-</blockquote>
-]]></content>
   </entry>
 </search>
