@@ -1,212 +1,227 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>majsoul3</title>
-      <link href="/2022/04/26/majsoul3/"/>
-      <url>/2022/04/26/majsoul3/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="金之间四暗刻！"><a href="#金之间四暗刻！" class="headerlink" title="金之间四暗刻！"></a>金之间四暗刻！</h1><blockquote><p>金之间东风自摸四暗刻</p></blockquote><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><blockquote><p><a href="https://baike.baidu.com/item/%E5%9B%9B%E6%9A%97%E5%88%BB/9868231?fr=aladdin">四暗刻</a></p></blockquote><h2 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h2><blockquote><p><a href="https://game.maj-soul.com/1/?paipu=220426-ae0c7905-5d51-4ebf-b443-045984364b6b_a110741673">牌谱链接</a></p></blockquote>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>1.23更新</title>
+    <url>/2022/01/23/1-23%E6%9B%B4%E6%96%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<h3 id="1-23更新内容"><a href="#1-23更新内容" class="headerlink" title="1.23更新内容"></a>1.23更新内容</h3></blockquote>
+<h4 id="添加live2d形象：狗子"><a href="#添加live2d形象：狗子" class="headerlink" title="添加live2d形象：狗子"></a>添加live2d形象：狗子</h4>]]></content>
+  </entry>
+  <entry>
+    <title>family blog</title>
+    <url>/2022/04/25/family-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="搭建了家庭博客"><a href="#搭建了家庭博客" class="headerlink" title="搭建了家庭博客"></a>搭建了家庭博客</h1><blockquote>
+<p><a href="https://family0617.github.io/">url</a> </p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>Readme</title>
+    <url>/2022/01/20/Readme/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="READ-ME"><a href="#READ-ME" class="headerlink" title="READ ME"></a>READ ME</h1><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><h3 id="generally-speaking"><a href="#generally-speaking" class="headerlink" title="generally speaking"></a>generally speaking</h3><blockquote>
+<p>本喵比较懒，可能不常更新。<br>本博客套用themes-gal模板使用。<br>本博客并不打算开源，并可能会在本喵无聊时更新新功能。<br>目前使用hexo、git等联合运作，以markdown形式更新推文。</p>
+</blockquote>
+<h3 id="functions-till-now"><a href="#functions-till-now" class="headerlink" title="functions (till now)"></a>functions (till now)</h3><blockquote>
+<p>导航栏除了大标题外均可点击跳转。<br>搜索栏支持关键字搜索。<br>侧边栏展示部分文章和超链接。<br>欢迎留下评论。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>readme</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/01/19/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>majsoul!</title>
+    <url>/2022/03/17/majsoul/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="纪念第一次双倍役满"><a href="#纪念第一次双倍役满" class="headerlink" title="纪念第一次双倍役满"></a>纪念第一次双倍役满</h1><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><h3 id="字一色"><a href="#字一色" class="headerlink" title="字一色"></a>字一色</h3><blockquote>
+<p><a href="https://baike.baidu.com/item/%E5%AD%97%E4%B8%80%E8%89%B2/11022976?fr=aladdin">胡牌时手中只有字牌</a></p>
+</blockquote>
+<h3 id="大三元"><a href="#大三元" class="headerlink" title="大三元"></a>大三元</h3><blockquote>
+<p><a href="https://baike.baidu.com/item/%E5%A4%A7%E4%B8%89%E5%85%83/7256444">胡牌时手牌中含有中、发、白的对子</a></p>
+</blockquote>
+<h1 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h1><blockquote>
+<p><a href="https://game.maj-soul.com/1/?paipu=220317-cce921fa-42bb-4ad8-bda0-6d3ff61a0c99_a110741673">雀魂牌谱</a></p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> majsoul </category>
-          
+        <category>majsoul</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> majsoul </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>family blog</title>
-      <link href="/2022/04/25/family-blog/"/>
-      <url>/2022/04/25/family-blog/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="搭建了家庭博客"><a href="#搭建了家庭博客" class="headerlink" title="搭建了家庭博客"></a>搭建了家庭博客</h1><blockquote><p><a href="https://family0617.github.io/">url</a> </p></blockquote>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>majsoul2!</title>
-      <link href="/2022/04/08/majsoul2/"/>
-      <url>/2022/04/08/majsoul2/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="纪念第一次双倍役满"><a href="#纪念第一次双倍役满" class="headerlink" title="纪念第一次双倍役满"></a>纪念第一次双倍役满</h1><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><h3 id="字一色"><a href="#字一色" class="headerlink" title="字一色"></a>字一色</h3><blockquote><p><a href="https://baike.baidu.com/item/%E5%AD%97%E4%B8%80%E8%89%B2/11022976?fr=aladdin">胡牌时手牌中只有东南西北白中发，役满</a></p></blockquote><h3 id="小四喜"><a href="#小四喜" class="headerlink" title="小四喜"></a>小四喜</h3><blockquote><p><a href="https://baike.baidu.com/item/%E5%B0%8F%E5%9B%9B%E5%96%9C">胡牌时手牌中同时含有东南西北至少一个的对子和另三个的对子/碰子</a></p></blockquote><h1 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h1><blockquote><p><a href="https://game.maj-soul.com/1/?paipu=220407-738f2031-5ea9-4cd1-a58f-1c3bafd951b9_a110741673">雀魂牌谱</a></p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>majsoul</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>guide</title>
+    <url>/2022/02/16/guide/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="关于hexo博客的搭建"><a href="#关于hexo博客的搭建" class="headerlink" title="关于hexo博客的搭建"></a>关于hexo博客的搭建</h1><h2 id="1-前置准备"><a href="#1-前置准备" class="headerlink" title="1.前置准备"></a>1.前置准备</h2><h3 id="1-1github"><a href="#1-1github" class="headerlink" title="1.1github"></a>1.1github</h3><blockquote>
+<p>首先，需要自己注册一个<a href="https://github.com/">github</a>账号  </p>
+</blockquote>
+<blockquote>
+<p>然后，点击右上角的加号新建一个项目<code>New repository</code>  </p>
+</blockquote>
+<blockquote>
+<p>之后，在新建的选项里面，选择[^repository name]为<code>×××.github.io</code>，下面选择<code>Public</code>，然后<code>Create repository</code>  </p>
+</blockquote>
+<blockquote>
+<p>Check:显示<code>Quick Setup</code>等空白选项时表示成功  </p>
+</blockquote>
+<h3 id="1-2git"><a href="#1-2git" class="headerlink" title="1.2git"></a>1.2<a href="https://gitforwindows.org/">git</a></h3><blockquote>
+<p>点击下载安装git for windows(仅适用windows)  </p>
+</blockquote>
+<blockquote>
+<p>Check:打开cmd输入<code>git --version</code>若显示版本号即为成功  </p>
+</blockquote>
+<h3 id="1-3node-js"><a href="#1-3node-js" class="headerlink" title="1.3node.js"></a>1.3<a href="https://nodejs.org/en/">node.js</a></h3><blockquote>
+<p>点击选择左边LTS版本下载安装  </p>
+</blockquote>
+<blockquote>
+<p>Check:打开cmd输入<code>node -v</code>以及<code>npm -v</code>  </p>
+</blockquote>
+<h3 id="1-4配置hexo"><a href="#1-4配置hexo" class="headerlink" title="1.4配置hexo"></a>1.4配置hexo</h3><blockquote>
+<p>首先任选一个作为项目地址的位置新建文件夹作为<em>站点目录</em>，打开后右键选择<code>Git Bash Here</code>  </p>
+</blockquote>
+<blockquote>
+<p>输入<code>npm install -g hexo</code>，正常没问题，如果被墙又不能自行科学上网，就输入<code>npm install -g cnpm --registry=https://registry.npm.taobao.org</code>切换到淘宝镜像后输入<code>cnpm install -g hexo</code>  </p>
+</blockquote>
+<blockquote>
+<p>Check:输入<code>hexo -v</code>出现版本号即为成功  </p>
+</blockquote>
+<h3 id="1-5自备-一个能写markdown文件的IDE-推荐用Microsoft配套的VSCode-，基本的VC框架-一般电脑都自带"><a href="#1-5自备-一个能写markdown文件的IDE-推荐用Microsoft配套的VSCode-，基本的VC框架-一般电脑都自带" class="headerlink" title="1.5自备:一个能写markdown文件的IDE(推荐用Microsoft配套的VSCode)，基本的VC框架(一般电脑都自带)"></a>1.5自备:一个能写markdown文件的IDE(推荐用Microsoft配套的VSCode)，基本的VC框架(一般电脑都自带)</h3><h2 id="2-基本配置"><a href="#2-基本配置" class="headerlink" title="2.基本配置"></a>2.基本配置</h2><h3 id="2-1初始化"><a href="#2-1初始化" class="headerlink" title="2.1初始化"></a>2.1初始化</h3><blockquote>
+<p>同样在git中输入<code>hexo init</code>,等待安装后会出现: </p>
+<blockquote>
+<ul>
+<li>node_modules:存放插件  </li>
+<li>scaffolds:文章模板  </li>
+<li>source:所有页面的markdown/html代码  </li>
+<li>themes:下载的主题  </li>
+<li>_config.yml:<em>站点配置文件</em></li>
+<li>package.json:插件目录  </li>
+</ul>
+</blockquote>
+</blockquote>
+<h3 id="2-2格式化"><a href="#2-2格式化" class="headerlink" title="2.2格式化"></a>2.2格式化</h3><blockquote>
+<p>输入<code>npm intall</code>来下载一些基本包  </p>
+</blockquote>
+<blockquote>
+<p>下载完毕后，打开<em>站点配置文件</em>，在<code>site</code>部分:  </p>
+<blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: 博客标题  </span><br><span class="line">subtitle: 博客副标题  </span><br><span class="line">description: 博客描述（可以填写 xxx的博客）  </span><br><span class="line">author: 作者  </span><br><span class="line">language: 语言，稍后根据主题进行设置  </span><br><span class="line">timezone: 时区，不建议设置  </span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">配置后在*站点目录*下`Git Bash Here`输入`hexo s`或`hexo server`(没区别)  </span><br><span class="line"></span><br><span class="line">打开浏览器输入`localhost:4000`，可以看到一个经典Hexo博客  </span><br><span class="line"></span><br><span class="line">若端口冲突则`Ctrl C`后`hexo s -p 4001`切换到4001端口重复操作(之后的操作全部变为4001)  </span><br><span class="line">### 2.3主题挑选  </span><br><span class="line">[hexo](https://hexo.io/)中有着可以套用的众多[themes](https://hexo.io/themes/)  </span><br><span class="line"></span><br><span class="line">点击图片可以预览效果  </span><br><span class="line"></span><br><span class="line">点击蓝色字体可以查看配置说明，对照着配置即可  </span><br><span class="line">## 3.主题配置</span><br><span class="line">### 3.1准备</span><br><span class="line">首先在*站点配置文件*里更改`theme`选项为自己选择的选项  </span><br><span class="line"></span><br><span class="line">在git中用`git clone`或依照对应主题的`Readme`下载安装对应主题</span><br><span class="line">查看有无其他前置安装要求，有些主题为了框架完善使用更多插件</span><br><span class="line">### 3.2示例</span><br><span class="line">我使用的主题为`gal`，首先打开*站点配置文件*把`theme`值改为`gal`</span><br><span class="line">该主题前置要求的插件安装:  </span><br><span class="line"></span><br><span class="line">renderer:</span><br><span class="line">```  </span><br><span class="line">npm install hexo-renderer-sass --save  </span><br><span class="line">npm install hexo-renderer-scss --save  </span><br><span class="line">和之前一样如果被墙了就用cnpm  </span><br><span class="line">Or  </span><br><span class="line">yarn add hexo-renderer-sass  </span><br><span class="line">yarn add hexo-renderer-scss  </span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">json-content:  </span><br><span class="line">`npm install hexo-generator-json-content --save`或用`cpnm`  </span><br><span class="line">随后在*站点配置文件*中添加(或修改)  </span><br><span class="line">```  </span><br><span class="line">jsonContent:  </span><br><span class="line">  dateFormat: MM-DD  </span><br><span class="line">  pages:  </span><br><span class="line">    title: true  </span><br><span class="line">    text: true  </span><br><span class="line">    path: true  </span><br><span class="line">    date: true  </span><br><span class="line">    excerpt: true  </span><br><span class="line">    preview: true  </span><br><span class="line">  posts:  </span><br><span class="line">    title: true  </span><br><span class="line">    text: true  </span><br><span class="line">    path: true  </span><br><span class="line">    date: true  </span><br><span class="line">    excerpt: true  </span><br><span class="line">    tags: [&#123;  </span><br><span class="line">      name: tag.name,  </span><br><span class="line">      slug: tag.slug,  </span><br><span class="line">      permalink: tag.permalink  </span><br><span class="line">    &#125;]  </span><br><span class="line">    preview: true  </span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">然后准备备用页面搜索和404  </span><br><span class="line">```  </span><br><span class="line">hexo new page &quot;search&quot;  </span><br><span class="line">hexo new page &quot;404&quot;  </span><br></pre></td></tr></table></figure>
+</blockquote>
+</blockquote>
+<h2 id="4-自添加插件"><a href="#4-自添加插件" class="headerlink" title="4.自添加插件"></a>4.自添加插件</h2><blockquote>
+<p>hexo所提供的插件功能<a href="https://hexo.io/plugins/">plugins</a>种类非常的多，这一部分为附加部分<br>这里参考一个<a href="https://www.pianshen.com/article/48331052709/">live2D</a>插件的添加，其他插件请自行按需添加</p>
+</blockquote>
+<h2 id="5-推送po文"><a href="#5-推送po文" class="headerlink" title="5.推送po文"></a>5.推送po文</h2><blockquote>
+<p>blog的目的在于推送po文，我们有了github提供的免费地址，需要通过GitHub的ssh将本地传到互联网上  </p>
+</blockquote>
+<blockquote>
+<p>在<code>Git Bash</code>中输入<code>ssh-keygen -t rsa -C &#123;email&#125;</code>，请把<code>&#123;email&#125;</code>替换为注册github所用的email，之后一路<code>enter</code>，就把ssh key存到电脑默认工作路径(一般为<code>C:/Users/Administrator/.ssh</code>)</p>
+</blockquote>
+<blockquote>
+<p>打开该地址，找到一个<code>id_rsa.pub</code>文件，以记事本打开，复制内容，在github网站登陆后点击自己头像，点击settings在左边的<code>SSH and GPG keys</code>里点击<code>New SSH key</code>,将整个复制的内容粘贴  </p>
+</blockquote>
+<blockquote>
+<p>Check:在本地的<code>Git Bash</code>中输入<code>ssh -T git@github.com</code>,若提示<code>Hi &#123;username&#125;! You&#39;ve successfully authenticated, but GitHub does not provide shell access.</code>则配置成功，并在<em>站点目录</em>中可以看到多了一个deploy文件夹</p>
+</blockquote>
+<blockquote>
+<p>每次更新内容后发布:</p>
+<blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo cl  \\clean旧的文件</span><br><span class="line">hexo g   \\依现有文件generate对应的网站文件</span><br><span class="line">hexo d   \\deploy到github网址</span><br><span class="line">(以上两行也可用hexo d -g)</span><br></pre></td></tr></table></figure>
+<p>Check:若发布成功，可以看到<code>INFO Deploy done: git</code>的提示，并且过一会打开网址能看到内容更新(有时需要等很久)</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>写博客的细节过程可以参考<a href="https://zhuanlan.zhihu.com/p/22498474">示例</a>  </p>
+</blockquote>
+<blockquote>
+<p>网上的教程参考<a href="https://lfkid.github.io/2016/11/16/Hexo%E6%95%99%E7%A8%8B%EF%BC%9A%EF%BC%88%E4%B8%80%EF%BC%89%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%88%9D%E4%BD%93%E9%AA%8C/">示例</a></p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>majsoul2!</title>
+    <url>/2022/04/08/majsoul2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="纪念第一次双倍役满"><a href="#纪念第一次双倍役满" class="headerlink" title="纪念第一次双倍役满"></a>纪念第一次双倍役满</h1><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><h3 id="字一色"><a href="#字一色" class="headerlink" title="字一色"></a>字一色</h3><blockquote>
+<p><a href="https://baike.baidu.com/item/%E5%AD%97%E4%B8%80%E8%89%B2/11022976?fr=aladdin">胡牌时手牌中只有东南西北白中发，役满</a></p>
+</blockquote>
+<h3 id="小四喜"><a href="#小四喜" class="headerlink" title="小四喜"></a>小四喜</h3><blockquote>
+<p><a href="https://baike.baidu.com/item/%E5%B0%8F%E5%9B%9B%E5%96%9C">胡牌时手牌中同时含有东南西北至少一个的对子和另三个的对子/碰子</a></p>
+</blockquote>
+<h1 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h1><blockquote>
+<p><a href="https://game.maj-soul.com/1/?paipu=220407-738f2031-5ea9-4cd1-a58f-1c3bafd951b9_a110741673">雀魂牌谱</a></p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> majsoul </category>
-          
+        <category>majsoul</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> majsoul </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>package</title>
-      <link href="/2022/04/05/package/"/>
-      <url>/2022/04/05/package/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://ytmp3.cc/en13/">下载</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>majsoul!</title>
-      <link href="/2022/03/17/majsoul/"/>
-      <url>/2022/03/17/majsoul/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="纪念第一次双倍役满"><a href="#纪念第一次双倍役满" class="headerlink" title="纪念第一次双倍役满"></a>纪念第一次双倍役满</h1><h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><h3 id="字一色"><a href="#字一色" class="headerlink" title="字一色"></a>字一色</h3><blockquote><p><a href="https://baike.baidu.com/item/%E5%AD%97%E4%B8%80%E8%89%B2/11022976?fr=aladdin">胡牌时手中只有字牌</a></p></blockquote><h3 id="大三元"><a href="#大三元" class="headerlink" title="大三元"></a>大三元</h3><blockquote><p><a href="https://baike.baidu.com/item/%E5%A4%A7%E4%B8%89%E5%85%83/7256444">胡牌时手牌中含有中、发、白的对子</a></p></blockquote><h1 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h1><blockquote><p><a href="https://game.maj-soul.com/1/?paipu=220317-cce921fa-42bb-4ad8-bda0-6d3ff61a0c99_a110741673">雀魂牌谱</a></p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>majsoul</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>majsoul3</title>
+    <url>/2022/04/26/majsoul3/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="金之间四暗刻！"><a href="#金之间四暗刻！" class="headerlink" title="金之间四暗刻！"></a>金之间四暗刻！</h1><blockquote>
+<p>金之间东风自摸四暗刻</p>
+</blockquote>
+<h2 id="役种"><a href="#役种" class="headerlink" title="役种"></a>役种</h2><blockquote>
+<p><a href="https://baike.baidu.com/item/%E5%9B%9B%E6%9A%97%E5%88%BB/9868231?fr=aladdin">四暗刻</a></p>
+</blockquote>
+<h2 id="牌谱"><a href="#牌谱" class="headerlink" title="牌谱"></a>牌谱</h2><blockquote>
+<p><a href="https://game.maj-soul.com/1/?paipu=220426-ae0c7905-5d51-4ebf-b443-045984364b6b_a110741673">牌谱链接</a></p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> majsoul </category>
-          
+        <category>majsoul</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> majsoul </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>guide</title>
-      <link href="/2022/02/16/guide/"/>
-      <url>/2022/02/16/guide/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="关于hexo博客的搭建"><a href="#关于hexo博客的搭建" class="headerlink" title="关于hexo博客的搭建"></a>关于hexo博客的搭建</h1><h2 id="1-前置准备"><a href="#1-前置准备" class="headerlink" title="1.前置准备"></a>1.前置准备</h2><h3 id="1-1github"><a href="#1-1github" class="headerlink" title="1.1github"></a>1.1github</h3><blockquote><p>首先，需要自己注册一个<a href="https://github.com/">github</a>账号  </p></blockquote><blockquote><p>然后，点击右上角的加号新建一个项目<code>New repository</code>  </p></blockquote><blockquote><p>之后，在新建的选项里面，选择[^repository name]为<code>×××.github.io</code>，下面选择<code>Public</code>，然后<code>Create repository</code>  </p></blockquote><blockquote><p>Check:显示<code>Quick Setup</code>等空白选项时表示成功  </p></blockquote><h3 id="1-2git"><a href="#1-2git" class="headerlink" title="1.2git"></a>1.2<a href="https://gitforwindows.org/">git</a></h3><blockquote><p>点击下载安装git for windows(仅适用windows)  </p></blockquote><blockquote><p>Check:打开cmd输入<code>git --version</code>若显示版本号即为成功  </p></blockquote><h3 id="1-3node-js"><a href="#1-3node-js" class="headerlink" title="1.3node.js"></a>1.3<a href="https://nodejs.org/en/">node.js</a></h3><blockquote><p>点击选择左边LTS版本下载安装  </p></blockquote><blockquote><p>Check:打开cmd输入<code>node -v</code>以及<code>npm -v</code>  </p></blockquote><h3 id="1-4配置hexo"><a href="#1-4配置hexo" class="headerlink" title="1.4配置hexo"></a>1.4配置hexo</h3><blockquote><p>首先任选一个作为项目地址的位置新建文件夹作为<em>站点目录</em>，打开后右键选择<code>Git Bash Here</code>  </p></blockquote><blockquote><p>输入<code>npm install -g hexo</code>，正常没问题，如果被墙又不能自行科学上网，就输入<code>npm install -g cnpm --registry=https://registry.npm.taobao.org</code>切换到淘宝镜像后输入<code>cnpm install -g hexo</code>  </p></blockquote><blockquote><p>Check:输入<code>hexo -v</code>出现版本号即为成功  </p></blockquote><h3 id="1-5自备-一个能写markdown文件的IDE-推荐用Microsoft配套的VSCode-，基本的VC框架-一般电脑都自带"><a href="#1-5自备-一个能写markdown文件的IDE-推荐用Microsoft配套的VSCode-，基本的VC框架-一般电脑都自带" class="headerlink" title="1.5自备:一个能写markdown文件的IDE(推荐用Microsoft配套的VSCode)，基本的VC框架(一般电脑都自带)"></a>1.5自备:一个能写markdown文件的IDE(推荐用Microsoft配套的VSCode)，基本的VC框架(一般电脑都自带)</h3><h2 id="2-基本配置"><a href="#2-基本配置" class="headerlink" title="2.基本配置"></a>2.基本配置</h2><h3 id="2-1初始化"><a href="#2-1初始化" class="headerlink" title="2.1初始化"></a>2.1初始化</h3><blockquote><p>同样在git中输入<code>hexo init</code>,等待安装后会出现: </p><blockquote><ul><li>node_modules:存放插件  </li><li>scaffolds:文章模板  </li><li>source:所有页面的markdown/html代码  </li><li>themes:下载的主题  </li><li>_config.yml:<em>站点配置文件</em></li><li>package.json:插件目录  </li></ul></blockquote></blockquote><h3 id="2-2格式化"><a href="#2-2格式化" class="headerlink" title="2.2格式化"></a>2.2格式化</h3><blockquote><p>输入<code>npm intall</code>来下载一些基本包  </p></blockquote><blockquote><p>下载完毕后，打开<em>站点配置文件</em>，在<code>site</code>部分:  </p><blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br></pre></td><td class="code"><pre><span class="line">title: 博客标题  </span><br><span class="line">subtitle: 博客副标题  </span><br><span class="line">description: 博客描述（可以填写 xxx的博客）  </span><br><span class="line">author: 作者  </span><br><span class="line">language: 语言，稍后根据主题进行设置  </span><br><span class="line">timezone: 时区，不建议设置  </span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">配置后在*站点目录*下`Git Bash Here`输入`hexo s`或`hexo server`(没区别)  </span><br><span class="line"></span><br><span class="line">打开浏览器输入`localhost:4000`，可以看到一个经典Hexo博客  </span><br><span class="line"></span><br><span class="line">若端口冲突则`Ctrl C`后`hexo s -p 4001`切换到4001端口重复操作(之后的操作全部变为4001)  </span><br><span class="line">### 2.3主题挑选  </span><br><span class="line">[hexo](https://hexo.io/)中有着可以套用的众多[themes](https://hexo.io/themes/)  </span><br><span class="line"></span><br><span class="line">点击图片可以预览效果  </span><br><span class="line"></span><br><span class="line">点击蓝色字体可以查看配置说明，对照着配置即可  </span><br><span class="line">## 3.主题配置</span><br><span class="line">### 3.1准备</span><br><span class="line">首先在*站点配置文件*里更改`theme`选项为自己选择的选项  </span><br><span class="line"></span><br><span class="line">在git中用`git clone`或依照对应主题的`Readme`下载安装对应主题</span><br><span class="line">查看有无其他前置安装要求，有些主题为了框架完善使用更多插件</span><br><span class="line">### 3.2示例</span><br><span class="line">我使用的主题为`gal`，首先打开*站点配置文件*把`theme`值改为`gal`</span><br><span class="line">该主题前置要求的插件安装:  </span><br><span class="line"></span><br><span class="line">renderer:</span><br><span class="line">```  </span><br><span class="line">npm install hexo-renderer-sass --save  </span><br><span class="line">npm install hexo-renderer-scss --save  </span><br><span class="line">和之前一样如果被墙了就用cnpm  </span><br><span class="line">Or  </span><br><span class="line">yarn add hexo-renderer-sass  </span><br><span class="line">yarn add hexo-renderer-scss  </span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">json-content:  </span><br><span class="line">`npm install hexo-generator-json-content --save`或用`cpnm`  </span><br><span class="line">随后在*站点配置文件*中添加(或修改)  </span><br><span class="line">```  </span><br><span class="line">jsonContent:  </span><br><span class="line">  dateFormat: MM-DD  </span><br><span class="line">  pages:  </span><br><span class="line">    title: true  </span><br><span class="line">    text: true  </span><br><span class="line">    path: true  </span><br><span class="line">    date: true  </span><br><span class="line">    excerpt: true  </span><br><span class="line">    preview: true  </span><br><span class="line">  posts:  </span><br><span class="line">    title: true  </span><br><span class="line">    text: true  </span><br><span class="line">    path: true  </span><br><span class="line">    date: true  </span><br><span class="line">    excerpt: true  </span><br><span class="line">    tags: [&#123;  </span><br><span class="line">      name: tag.name,  </span><br><span class="line">      slug: tag.slug,  </span><br><span class="line">      permalink: tag.permalink  </span><br><span class="line">    &#125;]  </span><br><span class="line">    preview: true  </span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">然后准备备用页面搜索和404  </span><br><span class="line">```  </span><br><span class="line">hexo new page &quot;search&quot;  </span><br><span class="line">hexo new page &quot;404&quot;  </span><br></pre></td></tr></table></figure></blockquote></blockquote><h2 id="4-自添加插件"><a href="#4-自添加插件" class="headerlink" title="4.自添加插件"></a>4.自添加插件</h2><blockquote><p>hexo所提供的插件功能<a href="https://hexo.io/plugins/">plugins</a>种类非常的多，这一部分为附加部分<br>这里参考一个<a href="https://www.pianshen.com/article/48331052709/">live2D</a>插件的添加，其他插件请自行按需添加</p></blockquote><h2 id="5-推送po文"><a href="#5-推送po文" class="headerlink" title="5.推送po文"></a>5.推送po文</h2><blockquote><p>blog的目的在于推送po文，我们有了github提供的免费地址，需要通过GitHub的ssh将本地传到互联网上  </p></blockquote><blockquote><p>在<code>Git Bash</code>中输入<code>ssh-keygen -t rsa -C &#123;email&#125;</code>，请把<code>&#123;email&#125;</code>替换为注册github所用的email，之后一路<code>enter</code>，就把ssh key存到电脑默认工作路径(一般为<code>C:/Users/Administrator/.ssh</code>)</p></blockquote><blockquote><p>打开该地址，找到一个<code>id_rsa.pub</code>文件，以记事本打开，复制内容，在github网站登陆后点击自己头像，点击settings在左边的<code>SSH and GPG keys</code>里点击<code>New SSH key</code>,将整个复制的内容粘贴  </p></blockquote><blockquote><p>Check:在本地的<code>Git Bash</code>中输入<code>ssh -T git@github.com</code>,若提示<code>Hi &#123;username&#125;! You&#39;ve successfully authenticated, but GitHub does not provide shell access.</code>则配置成功，并在<em>站点目录</em>中可以看到多了一个deploy文件夹</p></blockquote><blockquote><p>每次更新内容后发布:</p><blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">hexo cl  \\clean旧的文件</span><br><span class="line">hexo g   \\依现有文件generate对应的网站文件</span><br><span class="line">hexo d   \\deploy到github网址</span><br><span class="line">(以上两行也可用hexo d -g)</span><br></pre></td></tr></table></figure><p>Check:若发布成功，可以看到<code>INFO Deploy done: git</code>的提示，并且过一会打开网址能看到内容更新(有时需要等很久)</p></blockquote></blockquote><blockquote><p>写博客的细节过程可以参考<a href="https://zhuanlan.zhihu.com/p/22498474">示例</a>  </p></blockquote><blockquote><p>网上的教程参考<a href="https://lfkid.github.io/2016/11/16/Hexo%E6%95%99%E7%A8%8B%EF%BC%9A%EF%BC%88%E4%B8%80%EF%BC%89%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%88%9D%E4%BD%93%E9%AA%8C/">示例</a></p></blockquote>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>1.23更新</title>
-      <link href="/2022/01/23/1-23%E6%9B%B4%E6%96%B0/"/>
-      <url>/2022/01/23/1-23%E6%9B%B4%E6%96%B0/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><h3 id="1-23更新内容"><a href="#1-23更新内容" class="headerlink" title="1.23更新内容"></a>1.23更新内容</h3></blockquote><h4 id="添加live2d形象：狗子"><a href="#添加live2d形象：狗子" class="headerlink" title="添加live2d形象：狗子"></a>添加live2d形象：狗子</h4>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>学习笔记</title>
-      <link href="/2022/01/20/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-      <url>/2022/01/20/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="学习笔记补完计划"><a href="#学习笔记补完计划" class="headerlink" title="学习笔记补完计划"></a>学习笔记补完计划</h1><h2 id="目前进度-大三上-6-6"><a href="#目前进度-大三上-6-6" class="headerlink" title="目前进度:大三上(6/6)"></a>目前进度:大三上(6/6)</h2><h3 id="python-1-1"><a href="#python-1-1" class="headerlink" title="python(1/1)"></a>python(1/1)</h3><h3 id="财务管理-1-1"><a href="#财务管理-1-1" class="headerlink" title="财务管理(1/1)"></a>财务管理(1/1)</h3><h3 id="货币银行学-1-1"><a href="#货币银行学-1-1" class="headerlink" title="货币银行学(1/1)"></a>货币银行学(1/1)</h3><h3 id="证券投资学-1-1"><a href="#证券投资学-1-1" class="headerlink" title="证券投资学(1/1)"></a>证券投资学(1/1)</h3><h3 id="计量经济学-1-1"><a href="#计量经济学-1-1" class="headerlink" title="计量经济学(1/1)"></a>计量经济学(1/1)</h3><h3 id="多元统计分析-1-1"><a href="#多元统计分析-1-1" class="headerlink" title="多元统计分析(1/1)"></a>多元统计分析(1/1)</h3>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 学习笔记 </tag>
-            
-            <tag> study </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Readme</title>
-      <link href="/2022/01/20/Readme/"/>
-      <url>/2022/01/20/Readme/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="READ-ME"><a href="#READ-ME" class="headerlink" title="READ ME"></a>READ ME</h1><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><h3 id="generally-speaking"><a href="#generally-speaking" class="headerlink" title="generally speaking"></a>generally speaking</h3><blockquote><p>本喵比较懒，可能不常更新。<br>本博客套用themes-gal模板使用。<br>本博客并不打算开源，并可能会在本喵无聊时更新新功能。<br>目前使用hexo、git等联合运作，以markdown形式更新推文。</p></blockquote><h3 id="functions-till-now"><a href="#functions-till-now" class="headerlink" title="functions (till now)"></a>functions (till now)</h3><blockquote><p>导航栏除了大标题外均可点击跳转。<br>搜索栏支持关键字搜索。<br>侧边栏展示部分文章和超链接。<br>欢迎留下评论。</p></blockquote>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> readme </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2022/01/20/test/"/>
-      <url>/2022/01/20/test/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p>今日はいい天気ですね！</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>majsoul</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>package</title>
+    <url>/2022/04/05/package/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://ytmp3.cc/en13/">下载</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>学习笔记</title>
+    <url>/2022/01/20/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="学习笔记补完计划"><a href="#学习笔记补完计划" class="headerlink" title="学习笔记补完计划"></a>学习笔记补完计划</h1><h2 id="目前进度-大三上-6-6"><a href="#目前进度-大三上-6-6" class="headerlink" title="目前进度:大三上(6/6)"></a>目前进度:大三上(6/6)</h2><h3 id="python-1-1"><a href="#python-1-1" class="headerlink" title="python(1/1)"></a>python(1/1)</h3><h3 id="财务管理-1-1"><a href="#财务管理-1-1" class="headerlink" title="财务管理(1/1)"></a>财务管理(1/1)</h3><h3 id="货币银行学-1-1"><a href="#货币银行学-1-1" class="headerlink" title="货币银行学(1/1)"></a>货币银行学(1/1)</h3><h3 id="证券投资学-1-1"><a href="#证券投资学-1-1" class="headerlink" title="证券投资学(1/1)"></a>证券投资学(1/1)</h3><h3 id="计量经济学-1-1"><a href="#计量经济学-1-1" class="headerlink" title="计量经济学(1/1)"></a>计量经济学(1/1)</h3><h3 id="多元统计分析-1-1"><a href="#多元统计分析-1-1" class="headerlink" title="多元统计分析(1/1)"></a>多元统计分析(1/1)</h3>]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2022/01/20/test/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>今日はいい天気ですね！</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> Hexo </category>
-          
+        <category>Hexo</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> testHexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2022/01/19/hello-world/"/>
-      <url>/2022/01/19/hello-world/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>testHexo</tag>
+      </tags>
+  </entry>
 </search>
